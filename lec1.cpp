@@ -1,9 +1,6 @@
 #include<iostream>
 using namespace std;
 int main() {
-    
-
-
     int a ;
     int b;
     cout << "give value of a and b respectively " << endl ;
